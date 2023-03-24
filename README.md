@@ -54,5 +54,3 @@ Mentors: Julien Capitaine & Marie Joubert
 Franck Jaotombo
 Imene Brigui-Chtioui  
 
-
-
