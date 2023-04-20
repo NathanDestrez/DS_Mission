@@ -45,8 +45,6 @@ Note: In future work, other information may be important and future users should
 ### Neo4j
 
 This part of the notebook is dedicated to the construction of the Neo4j database. It mainly consists of Cypher queries run from Python.  
-The design of the database is presented with the following schema:
-
 
 
 ## Acknowledgments
